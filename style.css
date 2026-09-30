@@ -34,3 +34,14 @@ nav ul li a:hover {
 nav ul li a.active {
     background-color: #45a049;
 }
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+main img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
